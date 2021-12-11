@@ -10,6 +10,15 @@
   "name": "jamaal"
 },
 "categories": ["Themes"],
+"contributes": {
+    "themes": [
+        {
+            "label": "greeni",
+            "uiTheme": "vs-dark",
+            "path": "./themes/greeni-color-theme.json"
+        }
+    ]
+},
 "icon": "images/icon.png",
 "galleryBanner": {
   "color": "#C80000",
